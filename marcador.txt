@@ -1,0 +1,13 @@
+
+Running a Spring Boot application - página 37
+
+This preceding little POJO lets us look at the details about the chapter of 
+a book as follows... - página 40
+
+With all this in place, the only thing left is to write a REST controller
+ to serve up the data! - página 41
+
+Bundling up the application as a runnable
+BUILDING  UP  THE APPLICATION AS A RUNNABLE JAR file - página 45
+
+Metrics - página 53
